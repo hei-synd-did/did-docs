@@ -2,28 +2,33 @@
   <br>
   <img src="./img/Course.png" alt="DiD Course Logo" width="200" height="200">
   <br>
-  Hevs DiD Course Documents
+  HEI-VS DiD Course Documents
   <br>
 </h1>
 
-<h4 align="center">Documents to Scripts, Presentations, Labordocuments and Projectdocuments.</h4>
-
 ## Description
 
-All documents for the students
+All student documents for the [HEI-Vs](https://hevs.ch/synd) Engineering Course Digital Design DiD
+* [Scripts](course/)
+* [Presentations](slides/)
+* [Labordocuments](labo)
+* [Projectdocuments](project)
+* [Exercises](exercises)
 
 ## How to use
+
+Simply clone or download the repository.
 
 ### Windows
 
   ```bash
   mkdir -p c:/work
-  cd c:/work
+  cd /d c:/work
   git clone https://github.com/hei-synd-did/did-docs.git
   cd did-docs
   ```
 
-### Linux
+### Linux & Mac
 
   ```bash
   # clone repo
@@ -38,15 +43,10 @@ All documents for the students
 * ZaS
 * AmA
 
-## Resources
-
-* HESSO DiD Course
-
----
-
 ## Find us on
-> [hevs.ch](https://www.hevs.ch) &nbsp;&middot;&nbsp;
-> Facebook [@hessovalais](https://www.facebook.com/hessovalais) &nbsp;&middot;&nbsp;
-> Twitter [@hessovalais](https://twitter.com/hessovalais) &nbsp;&middot;&nbsp;
-> LinkedIn [HES-SO Valais-Wallis](https://www.linkedin.com/groups/104343/) &nbsp;&middot;&nbsp;
-> Youtube [HES-SO Valais-Wallis](https://www.youtube.com/user/HESSOVS)
+
+[hevs.ch](https://www.hevs.ch) &nbsp;&middot;&nbsp;
+Facebook [@hessovalais](https://www.facebook.com/hessovalais) &nbsp;&middot;&nbsp;
+Twitter [@hessovalais](https://twitter.com/hessovalais) &nbsp;&middot;&nbsp;
+LinkedIn [HES-SO Valais-Wallis](https://www.linkedin.com/groups/104343/) &nbsp;&middot;&nbsp;
+Youtube [HES-SO Valais-Wallis](https://www.youtube.com/user/HESSOVS)
